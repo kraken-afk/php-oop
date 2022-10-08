@@ -1,0 +1,6 @@
+<?php
+
+/**
+ KEBALIKAN DARI COVARIANCE
+ */
+  
